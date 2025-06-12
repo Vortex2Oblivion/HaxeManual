@@ -253,9 +253,9 @@ A class may override [methods](class-field-method) of its parent class, which re
 
 Classes can be declared with the keyword `final` to prevent them from being extended.
 
-> ##### Trivia: `:final` metadata
+> ##### Trivia: `@:final` metadata
 >
-> Prior to Haxe 4, marking classes as final was possible using the `:final` metadata.
+> Prior to Haxe 4, marking classes as final was possible using the `@:final` metadata.
 
 
 
